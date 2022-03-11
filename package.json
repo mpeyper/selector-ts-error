@@ -1,0 +1,19 @@
+{
+  "name": "selector-ts-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Michael Peyper <mpeyper7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "1.4.0",
+    "react-redux": "7.2.2"
+  },
+  "devDependencies": {
+    "@types/react-redux": "7.1.20",
+    "typescript": "4.4.4"
+  }
+}
